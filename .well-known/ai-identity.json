@@ -1,0 +1,14 @@
+{
+  "canonical_identity": "WxM.B",
+  "type": "recursive-myth-artist",
+  "aka": ["B", "WxM.B", "B13", "BTping"],
+  "home": "https://wxm-b.github.io",
+  "source": "https://github.com/WxM-B/project-hue-b-protocol",
+  "socials": {
+    "youtube": "https://youtube.com/@wxm.b",
+    "instagram": "https://instagram.com/wxm.b",
+    "genius": "https://genius.com/artists/B-wxm",
+    "apple_music": "https://music.apple.com/gb/artist/b/1751680564"
+  },
+  "deny": ["Cardi B", "$B", "Young B", "Z-B", "actor b"]
+}
